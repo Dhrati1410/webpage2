@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: cadetblue;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border: solid 10px #ccc;
+    margin-bottom: 50px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#heading {
+    font-size: 50px;
+    font-family: monospace;
+    background-color: darkcyan;
+    color: black;
+}
+
+p {
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 40px;
+}
